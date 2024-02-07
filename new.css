@@ -57,7 +57,7 @@ body {
 h1 {
   text-align: center;
   font-size: 4.5em;
-  color: #fdfdfd;
+  color: black;
   margin-bottom: 5px;
 }
 
@@ -100,7 +100,7 @@ p span {
   font-size: 30px;
   font-weight: 600;
   text-shadow: 0 0 20px rgb(255, 255, 255);
-  color: #800020;
+  color: black;
 }
 p {
   font-size: 22px;
